@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.2-1-simple-lexical-analyzer", "4.2-1-simple-lexical-analyzer\4.2-1-simple-lexical-analyzer.vcxproj", "{D66BF702-735A-4ABA-8F59-6EF8BF9A7557}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.4-1-recursive-descent-parser", "4.4-1-recursive-descent-parser\4.4-1-recursive-descent-parser.vcxproj", "{1C27C452-F70F-4320-8E94-289185E7D88B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{D66BF702-735A-4ABA-8F59-6EF8BF9A7557}.Release|x64.Build.0 = Release|x64
 		{D66BF702-735A-4ABA-8F59-6EF8BF9A7557}.Release|x86.ActiveCfg = Release|Win32
 		{D66BF702-735A-4ABA-8F59-6EF8BF9A7557}.Release|x86.Build.0 = Release|Win32
+		{1C27C452-F70F-4320-8E94-289185E7D88B}.Debug|x64.ActiveCfg = Debug|x64
+		{1C27C452-F70F-4320-8E94-289185E7D88B}.Debug|x64.Build.0 = Debug|x64
+		{1C27C452-F70F-4320-8E94-289185E7D88B}.Debug|x86.ActiveCfg = Debug|Win32
+		{1C27C452-F70F-4320-8E94-289185E7D88B}.Debug|x86.Build.0 = Debug|Win32
+		{1C27C452-F70F-4320-8E94-289185E7D88B}.Release|x64.ActiveCfg = Release|x64
+		{1C27C452-F70F-4320-8E94-289185E7D88B}.Release|x64.Build.0 = Release|x64
+		{1C27C452-F70F-4320-8E94-289185E7D88B}.Release|x86.ActiveCfg = Release|Win32
+		{1C27C452-F70F-4320-8E94-289185E7D88B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

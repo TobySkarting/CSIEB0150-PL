@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{D66BF702-735A-4ABA-8F59-6EF8BF9A7557}</ProjectGuid>
+    <ProjectGuid>{1C27C452-F70F-4320-8E94-289185E7D88B}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My421simplelexicalanalyzer</RootNamespace>
+    <RootNamespace>My441recursivedescentparser</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -142,7 +142,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="front.c" />
+    <ClCompile Include="main.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
